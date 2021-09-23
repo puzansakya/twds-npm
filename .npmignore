@@ -1,0 +1,17 @@
+__mocks__
+src
+public
+.babelrc
+
+config
+webpack.config.js
+
+.env.development
+.env.staging
+.env.production
+
+.prettierignore
+.prettierrc
+
+.postcss.config.js
+.tailwind.config.js
